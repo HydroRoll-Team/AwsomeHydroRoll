@@ -5,6 +5,7 @@
 - [GRPS - INFINI](https://grps.hydroroll.team): 核心文档
 - [Psi](https://psi.hydroroll.team): psi 脚本手册
 - [Logshader](https://logshader.hydroroll.team): 水系 log 着色器
-- [api](https://api.hydroroll.team): 水系 API
+- [api](https://api.hydroroll.team): 水系公开 API
 - [Typography](https://typo.hydroroll.team)
 - [deadlines](https://deadlines.hydroroll.team)
+- [ipm](https://ipm.hydroroll.team): Infini 包管理器文档
