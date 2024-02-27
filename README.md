@@ -8,4 +8,5 @@
 - [api](https://api.hydroroll.team): 水系公开 API
 - [Typography](https://typo.hydroroll.team)
 - [deadlines](https://deadlines.hydroroll.team)
-- [ipm](https://ipm.hydroroll.team): Infini 包管理器文档
+- [ipm](https://ipm.hydroroll.team/docs): Infini 包管理器文档
+- [ipm-server](https://ipm.hydroroll.team/index): ipm 官方镜像服务器
